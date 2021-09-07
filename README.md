@@ -4,7 +4,7 @@ Welcome to Gate.io API
 APIv4 provides spot, margin and futures trading operations. There are public APIs to retrieve the real-time market statistics, and private APIs which needs authentication to trade on user's behalf.
 
 Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.  
-- [Access URL](#Access URL)  
+- [Access URL](#AccessURL)  
 - [SDK](#SDK)  
 - [API Performance](#API Performance)  
 - [Market business application](#Market business application)
