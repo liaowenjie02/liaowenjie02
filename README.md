@@ -9,7 +9,7 @@ Scroll down for code samples, example requests and responses. Select a language 
 - [API Performance](#API-Performance)  
 - [Market business application](#Market-business-application)
 
-##Access URL
+## Access URL
 REST API BaseURL:
 
 - Live trading: https://api.gateio.ws/api/v4
@@ -17,7 +17,7 @@ REST API BaseURL:
 - Futures live trading alternative (futures only): https://fx-api.gateio.ws/api/v4      
 
 
-##SDK
+## SDK
 Available SDK:
 
 - [Python](https://github.com/gateio/gateapi-python "Python")
@@ -37,7 +37,7 @@ Besides API examples, some SDK provides an additional demo application. The demo
 
 [More >>](https://www.gate.io/docs/developers/apiv4/en/ "More >>")
 
-##API Performance
+## API Performance
 <table>
     <thead>
         <tr>
@@ -109,7 +109,7 @@ When repeatedly violating rate limits, it dependson
 - the request< burst rate, the request will have a delay.
 - the request> burst rate, the request will be declined.
 
-<h1>Market business application</h1>
+<h1> Market business application</h1>
 
 In order to further improve the market depth and transaction liquidity of the platform, we will recruit institutional market makers in an open and transparent manner, and provide professional market makers with professional market makers based on their contributions to platform liquidity. Rate scheme.
 
