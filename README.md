@@ -80,16 +80,17 @@ Besides API examples, some SDK provides an additional demo application. The demo
         	  <td > Depth,Kline,trading pairs,funding rate,etc.</td>
         </tr>
         <tr>
+        	<td>Place orders</td>
+        	<td rowspan=1>100r/s</td>
+          <td rowspan=1>User ID</td>
+        	<td> Placing(bulk)orders,margin trade,etc.
+        </tr>
+        <tr>
             <td>Private endpoints</td>
             <td rowspan=3>400r/s</td>
             <td rowspan=3>User ID</td>
             <td>Position,fee rate,etc.</td>
         </tr>
-        <tr>
-        	<td>Place orders</td>
-        	<td> Placing(bulk)orders,margin trade,etc.
-        </tr>
-        <tr>
         	<td> Cancel orders</td>
         	<td> Canceling(all)orders,etc.</td>
         </tr>
@@ -114,7 +115,6 @@ When repeatedly violating rate limits, it dependson
 In order to further improve the market depth and transaction liquidity of the platform, we will recruit institutional market makers in an open and transparent manner, and provide professional market makers with professional market makers based on their contributions to platform liquidity. Rate scheme.
 
 - Provide Gateio UID
-- Provide screenshots of his trading volume or VIP level, etc.
 - Provide screenshots of his trading volume or VIP level, etc.
 
 Provide the above content and submit it to <b>mm@mail.gate.io</b> , we will accept it within 3 working days.</br>
